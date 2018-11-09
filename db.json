@@ -1,0 +1,28 @@
+{
+  "profiles": [
+    {
+      "name": "Gal",
+      "subject": "bicycle",
+      "location": "haifa",
+      "role": "business",
+      "phone": "0504030201",
+      "id": "ljhkjhdkjh1212"
+    },
+    {
+      "name": "daphna",
+      "subject": "art",
+      "location": "haifa",
+      "role": "Client",
+      "phone": "0504030405",
+      "id": "msm899jhkjhk6" 
+    },
+    {
+      "name": "Daniel",
+      "subject": "Computers",
+      "location": "Haifa",
+      "role": "Client",
+      "phone": "0503010402",
+      "id": "msm8996"
+    }
+  ]
+}
